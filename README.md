@@ -1,6 +1,6 @@
-### Hi there, I'm Anna Gingle :bell:
+## Hi there, I'm Anna Gingle :bell:
 
-## A UX Designer and Web Developer
+### A UX Designer and Web Developer
 
 - 🔭 I’m currently working on a hi-fi prototype of a voter education web app in Figma
 - 🌱 I’m currently learning Next.Js 
