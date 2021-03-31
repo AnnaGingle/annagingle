@@ -2,7 +2,7 @@
 
 ### A UX Designer and Web Developer
 
-- 🔭 I’m currently working on a hi-fi prototype of a voter education web app in Figma
+- 🔭 I’m currently working on a hi-fi prototype of a voter education web app in Figma and a Github Workshop for beginners!
 - 🌱 I’m currently learning Next.Js 
 - 💬 How to view my work: [My Website](https://annagingle.com/) or [Behance](https://www.behance.net/annagingle)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annagingle/) 
