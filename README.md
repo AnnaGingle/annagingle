@@ -1,6 +1,6 @@
 ## Hi there, I'm Anna Gingle :bell:
 
-### Ux designer and engineer
+### Ux designer
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annagingle/) 
 - 😄 Pronouns: she/her
